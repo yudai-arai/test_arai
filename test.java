@@ -18,10 +18,10 @@ public class test{
         System.exit(1);
 }
     for(int i = 0 ; i< n; i++){
-        if(i == 1001){
+      if(i == 1001){
           break;
 }
-        System.out.println("Hello World");
+      System.out.println("Hello World");
 }
 }
 }

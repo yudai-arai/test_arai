@@ -7,14 +7,12 @@ public class test{
       System.out.println("引数1つのみ指定してください");
         System.exit(1);
 }
-
     try{
       n = Integer.parseInt(num[0]);
     }catch(NumberFormatException e){
       System.out.println("数値を入力してください。");
        System.exit(1);
 }
-
     if(n < 0){
       System.out.println("負の数は指定できません。");
         System.exit(1);

@@ -17,11 +17,11 @@ public class test{
       System.out.println("•‰‚Ì”‚Íw’è‚Å‚«‚Ü‚¹‚ñB");
         System.exit(1);
 }
-     for(int i = 0 ; i< n; i++){
+    for(int i = 0 ; i< n; i++){
         if(i == 1001){
           break;
 }
-      System.out.println("Hello World");
+        System.out.println("Hello World");
 }
 }
 }
